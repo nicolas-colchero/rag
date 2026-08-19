@@ -16,3 +16,6 @@ data/index/*
 !data/raw_books/.gitkeep
 !data/processed/.gitkeep
 !data/index/.gitkeep
+
+# Relevance feedback log (contains your query history — kept local)
+data/feedback.jsonl
