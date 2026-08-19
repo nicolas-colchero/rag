@@ -13,9 +13,11 @@ wheels/
 data/raw_books/*
 data/processed/*
 data/index/*
+data/models/*
 !data/raw_books/.gitkeep
 !data/processed/.gitkeep
 !data/index/.gitkeep
+!data/models/.gitkeep
 
 # Relevance feedback log (contains your query history — kept local)
 data/feedback.jsonl
